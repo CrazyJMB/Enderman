@@ -1,0 +1,23 @@
+{
+  "name": "enderman",
+  "version": "1.0.0",
+  "description": "Discord bot called Enderman that helps with the Minecraft Server information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Minecraft",
+    "Discord",
+    "Bot"
+  ],
+  "author": "CrazyJMB",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}
